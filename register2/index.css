@@ -1,0 +1,473 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  
+  width:100%;
+  margin-left:0;
+  height:2143px;
+  min-width:200px;
+  max-width:1512px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  
+  z-index:2;
+}
+.Rectangle-1{
+  position:relative;
+  z-index:12;
+  
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:210px;
+  margin-top:0px;
+  margin-bottom:1933px;
+  min-height:210px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-1-outer{
+  
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2{
+  position:relative;
+  z-index:13;
+  
+  margin-left:56px;
+  width:151px;
+  min-width:151px;
+  height:145px;
+  margin-top:-2110px;
+  margin-bottom:1965px;
+  min-height:145px;
+  content:url(assets/images/Rectangle_2.png);
+}
+.Rectangle-2-outer{
+  
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Group-7{
+  position:relative;
+  z-index:17;
+  
+  margin-left:779px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:-1934px;
+  margin-bottom:1878px;
+  min-height:56px;
+}
+.Group-7-outer{
+  
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Rectangle-7{
+  position:relative;
+  z-index:18;
+  
+  margin-left:0px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:56px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-7-outer{
+  
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.ABOUT-ME{
+  position:relative;
+  z-index:19;
+  
+  margin-left:28px;
+  width:160px;
+  min-width:160px;
+  margin-top:-51px;
+  margin-bottom:3px;
+  min-height:48px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:25px;
+  line-height:28.88888931274414px;
+}
+.ABOUT-ME-outer{
+  
+  z-index:19;
+  position:relative;
+  display:flex;
+}
+.Group-6{
+  position:relative;
+  z-index:14;
+  
+  margin-left:531px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:-1934px;
+  margin-bottom:1878px;
+  min-height:56px;
+}
+.Group-6-outer{
+  
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.Rectangle-6{
+  position:relative;
+  z-index:15;
+  
+  margin-left:0px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:56px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-6-outer{
+  
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Home{
+  position:relative;
+  z-index:16;
+  
+  margin-left:60px;
+  width:72px;
+  min-width:72px;
+  margin-top:-47px;
+  margin-bottom:7px;
+  min-height:40px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:25px;
+  line-height:28.88888931274414px;
+}
+.Home-outer{
+  
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Rectangle-21{
+  position:relative;
+  z-index:5;
+  
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:119px;
+  margin-top:-1727px;
+  margin-bottom:1608px;
+  min-height:119px;
+  background-color:rgba(208, 223, 255, 1);
+  border-radius:10px;
+}
+.Rectangle-21-outer{
+  
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.q---------{
+  position:relative;
+  z-index:6;
+  
+  margin-left:197px;
+  width:160px;
+  min-width:154px;
+  margin-top:-1696px;
+  margin-bottom:1638px;
+  min-height:58px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:36px;
+  line-height:41.111114501953125px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q----------outer{
+  
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.user-1{
+  position:relative;
+  z-index:7;
+  
+  margin-left:132px;
+  width:50px;
+  min-width:50px;
+  height:50px;
+  margin-top:-1688px;
+  margin-bottom:1638px;
+  min-height:50px;
+  content:url(assets/images/user_1.png);
+}
+.user-1-outer{
+  
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.Rectangle-17{
+  position:relative;
+  z-index:8;
+  
+  margin-left:437px;
+  width:638px;
+  min-width:638px;
+  height:629px;
+  margin-top:-1345px;
+  margin-bottom:716px;
+  min-height:629px;
+  background-color:rgba(238, 241, 255, 1);
+  border-radius:20px;
+}
+.Rectangle-17-outer{
+  
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.q-------------------{
+  position:relative;
+  z-index:9;
+  
+  margin-left:565px;
+  width:413px;
+  min-width:399px;
+  margin-top:-1279px;
+  margin-bottom:1221px;
+  min-height:58px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:36px;
+  line-height:41.111114501953125px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q--------------------outer{
+  
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.correct-1{
+  position:relative;
+  z-index:11;
+  
+  margin-left:656px;
+  width:200px;
+  min-width:200px;
+  height:200px;
+  margin-top:-1172px;
+  margin-bottom:972px;
+  min-height:200px;
+  content:url(assets/images/correct_1.png);
+}
+.correct-1-outer{
+  
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.Component-63{
+  position:relative;
+  z-index:20;
+  
+  margin-left:685px;
+  width:141px;
+  min-width:141px;
+  height:68px;
+  margin-top:-885px;
+  margin-bottom:817px;
+  min-height:68px;
+}
+.Component-63-outer{
+  
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.q----{
+  position:relative;
+  z-index:22;
+  
+  margin-left:29.078014184397162%;
+  width:41.843971631205676%;
+  height:55.88235294117647%;
+  margin-top:10.638297872340425%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:24px;
+  line-height:27.77777862548828px;
+  -webkit-text-stroke:1px rgba(255, 255, 255, 1);
+}
+.q-----outer{
+  
+  z-index:22;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-19{
+  position:relative;
+  z-index:21;
+  
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(106, 112, 164, 1);
+  border-radius:20px;
+}
+.Rectangle-19-outer{
+  
+  z-index:21;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.q-----1{
+  position:relative;
+  z-index:10;
+  
+  margin-left:726px;
+  width:59px;
+  min-width:59px;
+  margin-top:-870px;
+  margin-bottom:832px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:24px;
+  line-height:27.77777862548828px;
+  -webkit-text-stroke:1px rgba(255, 255, 255, 1);
+}
+.q-----1-outer{
+  
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Rectangle-20{
+  position:relative;
+  z-index:3;
+  
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:210px;
+  margin-top:-210px;
+  margin-bottom:0px;
+  min-height:210px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-20-outer{
+  
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.q-FOOTER{
+  position:relative;
+  z-index:4;
+  
+  margin-left:512px;
+  width:462px;
+  min-width:450px;
+  margin-top:-182px;
+  margin-bottom:28px;
+  min-height:154px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:96px;
+  line-height:111.11111450195312px;
+}
+.q-FOOTER-outer{
+  
+  z-index:4;
+  position:relative;
+  display:flex;
+}

@@ -1,0 +1,1886 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  
+  width:100%;
+  margin-left:0;
+  height:2927px;
+  min-width:200px;
+  max-width:1512px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  
+  z-index:2;
+}
+.Rectangle-1{
+  position:relative;
+  z-index:21;
+  
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:210px;
+  margin-top:0px;
+  margin-bottom:2717px;
+  min-height:210px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-1-outer{
+  
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2{
+  position:relative;
+  z-index:22;
+  
+  margin-left:56px;
+  width:151px;
+  min-width:151px;
+  height:145px;
+  margin-top:-2894px;
+  margin-bottom:2749px;
+  min-height:145px;
+  content:url(assets/images/Rectangle_2.png);
+}
+.Rectangle-2-outer{
+  
+  z-index:22;
+  position:relative;
+  display:flex;
+}
+.Rectangle-3{
+  position:relative;
+  z-index:20;
+  
+  margin-left:1px;
+  width:1512px;
+  min-width:1512px;
+  height:424px;
+  margin-top:-2747px;
+  margin-bottom:2323px;
+  min-height:424px;
+  background-color:rgba(141, 145, 183, 1);
+}
+.Rectangle-3-outer{
+  
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.Group-9{
+  position:relative;
+  z-index:54;
+  
+  margin-left:1326px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:-2718px;
+  margin-bottom:2662px;
+  min-height:56px;
+}
+.Group-9-outer{
+  
+  z-index:54;
+  position:relative;
+  display:flex;
+}
+.Rectangle-9{
+  position:relative;
+  z-index:55;
+  
+  margin-left:0px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:56px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-9-outer{
+  
+  z-index:55;
+  position:relative;
+  display:flex;
+}
+.logout-1{
+  position:relative;
+  z-index:56;
+  
+  margin-left:76px;
+  width:40px;
+  min-width:40px;
+  height:40px;
+  margin-top:-51px;
+  margin-bottom:11px;
+  min-height:40px;
+  content:url(assets/images/logout_1.png);
+}
+.logout-1-outer{
+  
+  z-index:56;
+  position:relative;
+  display:flex;
+}
+.Group-8{
+  position:relative;
+  z-index:31;
+  
+  margin-left:1027px;
+  width:244px;
+  min-width:244px;
+  height:56px;
+  margin-top:-2718px;
+  margin-bottom:2662px;
+  min-height:56px;
+}
+.Group-8-outer{
+  
+  z-index:31;
+  position:relative;
+  display:flex;
+}
+.Rectangle-8{
+  position:relative;
+  z-index:32;
+  
+  margin-left:0px;
+  width:244px;
+  min-width:244px;
+  height:56px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:56px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-8-outer{
+  
+  z-index:32;
+  position:relative;
+  display:flex;
+}
+.Loing---Register{
+  position:relative;
+  z-index:33;
+  
+  margin-left:23px;
+  width:197px;
+  min-width:197px;
+  margin-top:-51px;
+  margin-bottom:11px;
+  min-height:40px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:25px;
+  line-height:28.88888931274414px;
+}
+.Loing---Register-outer{
+  
+  z-index:33;
+  position:relative;
+  display:flex;
+}
+.Group-7{
+  position:relative;
+  z-index:28;
+  
+  margin-left:779px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:-2718px;
+  margin-bottom:2662px;
+  min-height:56px;
+}
+.Group-7-outer{
+  
+  z-index:28;
+  position:relative;
+  display:flex;
+}
+.Rectangle-7{
+  position:relative;
+  z-index:29;
+  
+  margin-left:0px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:56px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-7-outer{
+  
+  z-index:29;
+  position:relative;
+  display:flex;
+}
+.ABOUT-ME{
+  position:relative;
+  z-index:30;
+  
+  margin-left:28px;
+  width:160px;
+  min-width:160px;
+  margin-top:-51px;
+  margin-bottom:3px;
+  min-height:48px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:25px;
+  line-height:28.88888931274414px;
+}
+.ABOUT-ME-outer{
+  
+  z-index:30;
+  position:relative;
+  display:flex;
+}
+.Group-6{
+  position:relative;
+  z-index:23;
+  
+  margin-left:531px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:-2718px;
+  margin-bottom:2662px;
+  min-height:56px;
+}
+.Group-6-outer{
+  
+  z-index:23;
+  position:relative;
+  display:flex;
+}
+.Rectangle-6{
+  position:relative;
+  z-index:24;
+  
+  margin-left:0px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:56px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-6-outer{
+  
+  z-index:24;
+  position:relative;
+  display:flex;
+}
+.Home{
+  position:relative;
+  z-index:25;
+  
+  margin-left:60px;
+  width:72px;
+  min-width:72px;
+  margin-top:-47px;
+  margin-bottom:7px;
+  min-height:40px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:25px;
+  line-height:28.88888931274414px;
+}
+.Home-outer{
+  
+  z-index:25;
+  position:relative;
+  display:flex;
+}
+.Rectangle-5{
+  position:relative;
+  z-index:26;
+  
+  margin-left:380px;
+  width:752px;
+  min-width:752px;
+  height:54px;
+  margin-top:-2581px;
+  margin-bottom:2527px;
+  min-height:54px;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius:20px;
+}
+.Rectangle-5-outer{
+  
+  z-index:26;
+  position:relative;
+  display:flex;
+}
+.search-1{
+  position:relative;
+  z-index:27;
+  
+  margin-left:1078px;
+  width:35px;
+  min-width:35px;
+  height:35px;
+  margin-top:-2571px;
+  margin-bottom:2536px;
+  min-height:35px;
+  content:url(assets/images/search_1.png);
+}
+.search-1-outer{
+  
+  z-index:27;
+  position:relative;
+  display:flex;
+}
+.Component-91{
+  position:relative;
+  z-index:81;
+  
+  margin-left:507px;
+  width:238px;
+  min-width:238px;
+  height:53px;
+  margin-top:-2489px;
+  margin-bottom:2436px;
+  min-height:53px;
+}
+.Component-91-outer{
+  
+  z-index:81;
+  position:relative;
+  display:flex;
+}
+.q----------{
+  position:relative;
+  z-index:84;
+  
+  margin-left:43.69747899159664%;
+  width:36.554621848739494%;
+  height:75.47169811320755%;
+  margin-top:2.5210084033613445%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:25px;
+  line-height:28.88888931274414px;
+  -webkit-text-stroke:0.5px rgba(0, 0, 0, 1);
+}
+.q-----------outer{
+  
+  z-index:84;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.fast-delivery-1{
+  position:relative;
+  z-index:83;
+  
+  margin-left:19.327731092436974%;
+  width:18.907563025210084%;
+  height:84.90566037735849%;
+  margin-top:1.680672268907563%;
+  content:url(assets/images/fast_delivery_1.png);
+}
+.fast-delivery-1-outer{
+  
+  z-index:83;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-10{
+  position:relative;
+  z-index:82;
+  
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius:20px;
+}
+.Rectangle-10-outer{
+  
+  z-index:82;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Component-92{
+  position:relative;
+  z-index:85;
+  
+  margin-left:794px;
+  width:238px;
+  min-width:238px;
+  height:53px;
+  margin-top:-2480px;
+  margin-bottom:2427px;
+  min-height:53px;
+}
+.Component-92-outer{
+  
+  z-index:85;
+  position:relative;
+  display:flex;
+}
+.q----------------{
+  position:relative;
+  z-index:88;
+  
+  margin-left:30.252100840336134%;
+  width:61.76470588235294%;
+  height:75.47169811320755%;
+  margin-top:2.5210084033613445%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:25px;
+  line-height:28.88888931274414px;
+  -webkit-text-stroke:0.5px rgba(0, 0, 0, 1);
+}
+.q-----------------outer{
+  
+  z-index:88;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.shop-1{
+  position:relative;
+  z-index:87;
+  
+  margin-left:8.823529411764707%;
+  width:18.907563025210084%;
+  height:84.90566037735849%;
+  margin-top:1.680672268907563%;
+  content:url(assets/images/shop_1.png);
+}
+.shop-1-outer{
+  
+  z-index:87;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-11{
+  position:relative;
+  z-index:86;
+  
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius:20px;
+}
+.Rectangle-11-outer{
+  
+  z-index:86;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-14{
+  position:relative;
+  z-index:34;
+  
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:94px;
+  margin-top:-2363px;
+  margin-bottom:2269px;
+  min-height:94px;
+  background-color:rgba(208, 223, 255, 1);
+}
+.Rectangle-14-outer{
+  
+  z-index:34;
+  position:relative;
+  display:flex;
+}
+.Group-10{
+  position:relative;
+  z-index:51;
+  
+  margin-left:1371px;
+  width:148px;
+  min-width:148px;
+  height:83px;
+  margin-top:-2271px;
+  margin-bottom:2188px;
+  min-height:83px;
+}
+.Group-10-outer{
+  
+  z-index:51;
+  position:relative;
+  display:flex;
+}
+.Rectangle-46{
+  position:relative;
+  z-index:52;
+  
+  margin-left:0px;
+  width:148px;
+  min-width:148px;
+  height:83px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:83px;
+  background-color:rgba(208, 223, 255, 1);
+}
+.Rectangle-46-outer{
+  
+  z-index:52;
+  position:relative;
+  display:flex;
+}
+.shopping-cart-add-1{
+  position:relative;
+  z-index:53;
+  
+  margin-left:51px;
+  width:40px;
+  min-width:40px;
+  height:40px;
+  margin-top:-62px;
+  margin-bottom:22px;
+  min-height:40px;
+  content:url(assets/images/shopping_cart_add_1.png);
+}
+.shopping-cart-add-1-outer{
+  
+  z-index:53;
+  position:relative;
+  display:flex;
+}
+.Group-12{
+  position:relative;
+  z-index:43;
+  
+  margin-left:675px;
+  width:237px;
+  min-width:237px;
+  height:83px;
+  margin-top:-2271px;
+  margin-bottom:2188px;
+  min-height:83px;
+}
+.Group-12-outer{
+  
+  z-index:43;
+  position:relative;
+  display:flex;
+}
+.Rectangle-17{
+  position:relative;
+  z-index:44;
+  
+  margin-left:0px;
+  width:237px;
+  min-width:237px;
+  height:83px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:83px;
+  background-color:rgba(208, 223, 255, 1);
+}
+.Rectangle-17-outer{
+  
+  z-index:44;
+  position:relative;
+  display:flex;
+}
+.q-----------{
+  position:relative;
+  z-index:45;
+  
+  margin-left:103px;
+  width:116px;
+  min-width:116px;
+  margin-top:-69px;
+  margin-bottom:21px;
+  min-height:48px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:30px;
+  line-height:34.4444465637207px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q------------outer{
+  
+  z-index:45;
+  position:relative;
+  display:flex;
+}
+.cheers-1{
+  position:relative;
+  z-index:46;
+  
+  margin-left:37px;
+  width:45px;
+  min-width:45px;
+  height:45px;
+  margin-top:-66px;
+  margin-bottom:21px;
+  min-height:45px;
+  content:url(assets/images/cheers_1.png);
+}
+.cheers-1-outer{
+  
+  z-index:46;
+  position:relative;
+  display:flex;
+}
+.Group-11{
+  position:relative;
+  z-index:47;
+  
+  margin-left:965px;
+  width:237px;
+  min-width:237px;
+  height:83px;
+  margin-top:-2270px;
+  margin-bottom:2187px;
+  min-height:83px;
+}
+.Group-11-outer{
+  
+  z-index:47;
+  position:relative;
+  display:flex;
+}
+.Rectangle-18{
+  position:relative;
+  z-index:48;
+  
+  margin-left:0px;
+  width:237px;
+  min-width:237px;
+  height:83px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:83px;
+  background-color:rgba(208, 223, 255, 1);
+}
+.Rectangle-18-outer{
+  
+  z-index:48;
+  position:relative;
+  display:flex;
+}
+.q-------{
+  position:relative;
+  z-index:49;
+  
+  margin-left:97px;
+  width:124px;
+  min-width:124px;
+  margin-top:-69px;
+  margin-bottom:21px;
+  min-height:48px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:30px;
+  line-height:34.4444465637207px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q--------outer{
+  
+  z-index:49;
+  position:relative;
+  display:flex;
+}
+.sweets-1{
+  position:relative;
+  z-index:50;
+  
+  margin-left:27px;
+  width:50px;
+  min-width:50px;
+  height:50px;
+  margin-top:-67px;
+  margin-bottom:17px;
+  min-height:50px;
+  content:url(assets/images/sweets_1.png);
+}
+.sweets-1-outer{
+  
+  z-index:50;
+  position:relative;
+  display:flex;
+}
+.Group-13{
+  position:relative;
+  z-index:39;
+  
+  margin-left:290px;
+  width:332px;
+  min-width:332px;
+  height:83px;
+  margin-top:-2270px;
+  margin-bottom:2187px;
+  min-height:83px;
+}
+.Group-13-outer{
+  
+  z-index:39;
+  position:relative;
+  display:flex;
+}
+.Rectangle-16{
+  position:relative;
+  z-index:40;
+  
+  margin-left:0px;
+  width:332px;
+  min-width:332px;
+  height:83px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:83px;
+  background-color:rgba(208, 223, 255, 1);
+}
+.Rectangle-16-outer{
+  
+  z-index:40;
+  position:relative;
+  display:flex;
+}
+.q------------1{
+  position:relative;
+  z-index:41;
+  
+  margin-left:110px;
+  width:185px;
+  min-width:185px;
+  margin-top:-66px;
+  margin-bottom:18px;
+  min-height:48px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:30px;
+  line-height:34.4444465637207px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q------------1-outer{
+  
+  z-index:41;
+  position:relative;
+  display:flex;
+}
+.dish-1{
+  position:relative;
+  z-index:42;
+  
+  margin-left:39px;
+  width:50px;
+  min-width:50px;
+  height:50px;
+  margin-top:-64px;
+  margin-bottom:14px;
+  min-height:50px;
+  content:url(assets/images/dish_1.png);
+}
+.dish-1-outer{
+  
+  z-index:42;
+  position:relative;
+  display:flex;
+}
+.Group-14{
+  position:relative;
+  z-index:35;
+  
+  margin-left:0px;
+  width:237px;
+  min-width:237px;
+  height:83px;
+  margin-top:-2270px;
+  margin-bottom:2187px;
+  min-height:83px;
+}
+.Group-14-outer{
+  
+  z-index:35;
+  position:relative;
+  display:flex;
+}
+.Rectangle-15{
+  position:relative;
+  z-index:36;
+  
+  margin-left:0px;
+  width:237px;
+  min-width:237px;
+  height:83px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:83px;
+  background-color:rgba(208, 223, 255, 1);
+}
+.Rectangle-15-outer{
+  
+  z-index:36;
+  position:relative;
+  display:flex;
+}
+.q---------{
+  position:relative;
+  z-index:37;
+  
+  margin-left:104px;
+  width:117px;
+  min-width:110px;
+  margin-top:-64px;
+  margin-bottom:16px;
+  min-height:48px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:30px;
+  line-height:34.4444465637207px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q----------outer{
+  
+  z-index:37;
+  position:relative;
+  display:flex;
+}
+.megaphone-1{
+  position:relative;
+  z-index:38;
+  
+  margin-left:38px;
+  width:45px;
+  min-width:45px;
+  height:45px;
+  margin-top:-63px;
+  margin-bottom:18px;
+  min-height:45px;
+  content:url(assets/images/megaphone_1.png);
+}
+.megaphone-1-outer{
+  
+  z-index:38;
+  position:relative;
+  display:flex;
+}
+.Rectangle-21{
+  position:relative;
+  z-index:3;
+  
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:119px;
+  margin-top:-2048px;
+  margin-bottom:1929px;
+  min-height:119px;
+  background-color:rgba(208, 223, 255, 1);
+  border-radius:10px;
+}
+.Rectangle-21-outer{
+  
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.cheers-2{
+  position:relative;
+  z-index:12;
+  
+  margin-left:120px;
+  width:50px;
+  min-width:50px;
+  height:50px;
+  margin-top:-2017px;
+  margin-bottom:1967px;
+  min-height:50px;
+  content:url(assets/images/cheers_2.png);
+}
+.cheers-2-outer{
+  
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.q------------3{
+  position:relative;
+  z-index:4;
+  
+  margin-left:197px;
+  width:139px;
+  min-width:139px;
+  margin-top:-2017px;
+  margin-bottom:1959px;
+  min-height:58px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:36px;
+  line-height:41.111114501953125px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q------------3-outer{
+  
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Coldpress-tablet-MK--2{
+  position:relative;
+  z-index:14;
+  
+  margin-left:887px;
+  width:419px;
+  min-width:419px;
+  height:260px;
+  margin-top:-1779px;
+  margin-bottom:1519px;
+  min-height:260px;
+  content:url(assets/images/Coldpress_tablet_MK_Delivery_419x260_px_Final_Orange_1.png);
+}
+.Coldpress-tablet-MK--2-outer{
+  
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.Coldpress-tablet-MK--3{
+  position:relative;
+  z-index:13;
+  
+  margin-left:238px;
+  width:419px;
+  min-width:419px;
+  height:260px;
+  margin-top:-1779px;
+  margin-bottom:1519px;
+  min-height:260px;
+  content:url(assets/images/Coldpress_tablet_MK_Delivery_419x260_px_Final_water_melon_1.png);
+}
+.Coldpress-tablet-MK--3-outer{
+  
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Component-51-2{
+  position:relative;
+  z-index:61;
+  
+  margin-left:1136px;
+  width:170px;
+  min-width:170px;
+  height:52px;
+  margin-top:-1488px;
+  margin-bottom:1436px;
+  min-height:52px;
+}
+.Component-51-2-outer{
+  
+  z-index:61;
+  position:relative;
+  display:flex;
+}
+.q95---2{
+  position:relative;
+  z-index:64;
+  
+  margin-left:50%;
+  width:31.176470588235293%;
+  height:92.3076923076923%;
+  margin-top:0%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:30px;
+  line-height:34.4444465637207px;
+}
+.q95---2-outer{
+  
+  z-index:64;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.shopping-basket-5-2{
+  position:relative;
+  z-index:63;
+  
+  margin-left:12.352941176470589%;
+  width:20.58823529411765%;
+  height:67.3076923076923%;
+  margin-top:4.705882352941177%;
+  content:url(assets/images/shopping_basket_5_2.png);
+}
+.shopping-basket-5-2-outer{
+  
+  z-index:63;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-26-2{
+  position:relative;
+  z-index:62;
+  
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(255, 89, 89, 1);
+  border-radius:20px;
+}
+.Rectangle-26-2-outer{
+  
+  z-index:62;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Component-51-3{
+  position:relative;
+  z-index:57;
+  
+  margin-left:487px;
+  width:170px;
+  min-width:170px;
+  height:52px;
+  margin-top:-1486px;
+  margin-bottom:1434px;
+  min-height:52px;
+}
+.Component-51-3-outer{
+  
+  z-index:57;
+  position:relative;
+  display:flex;
+}
+.q95---3{
+  position:relative;
+  z-index:60;
+  
+  margin-left:50%;
+  width:31.176470588235293%;
+  height:92.3076923076923%;
+  margin-top:0%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:30px;
+  line-height:34.4444465637207px;
+}
+.q95---3-outer{
+  
+  z-index:60;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.shopping-basket-5-3{
+  position:relative;
+  z-index:59;
+  
+  margin-left:12.352941176470589%;
+  width:20.58823529411765%;
+  height:67.3076923076923%;
+  margin-top:4.705882352941177%;
+  content:url(assets/images/shopping_basket_5_3.png);
+}
+.shopping-basket-5-3-outer{
+  
+  z-index:59;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-26-3{
+  position:relative;
+  z-index:58;
+  
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(255, 89, 89, 1);
+  border-radius:20px;
+}
+.Rectangle-26-3-outer{
+  
+  z-index:58;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.q--------1{
+  position:relative;
+  z-index:6;
+  
+  margin-left:905px;
+  width:58px;
+  min-width:58px;
+  margin-top:-1472px;
+  margin-bottom:1434px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:24px;
+  line-height:27.77777862548828px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q--------1-outer{
+  
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.q---------1{
+  position:relative;
+  z-index:5;
+  
+  margin-left:233px;
+  width:94px;
+  min-width:91px;
+  margin-top:-1463px;
+  margin-bottom:1425px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:24px;
+  line-height:27.77777862548828px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q---------1-outer{
+  
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Coldpress-tablet-MK-{
+  position:relative;
+  z-index:16;
+  
+  margin-left:887px;
+  width:419px;
+  min-width:419px;
+  height:260px;
+  margin-top:-1306px;
+  margin-bottom:1046px;
+  min-height:260px;
+  content:url(assets/images/Coldpress_tablet_MK_Delivery_419x260_px_Final_Crimson_glow_1.png);
+}
+.Coldpress-tablet-MK--outer{
+  
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Coldpress-tablet-MK--1{
+  position:relative;
+  z-index:15;
+  
+  margin-left:238px;
+  width:419px;
+  min-width:419px;
+  height:260px;
+  margin-top:-1306px;
+  margin-bottom:1046px;
+  min-height:260px;
+  content:url(assets/images/Coldpress_tablet_MK_Delivery_419x260_px_Final_Emerald_Flow_1.png);
+}
+.Coldpress-tablet-MK--1-outer{
+  
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Component-51{
+  position:relative;
+  z-index:69;
+  
+  margin-left:1136px;
+  width:170px;
+  min-width:170px;
+  height:52px;
+  margin-top:-1012px;
+  margin-bottom:960px;
+  min-height:52px;
+}
+.Component-51-outer{
+  
+  z-index:69;
+  position:relative;
+  display:flex;
+}
+.q95--{
+  position:relative;
+  z-index:72;
+  
+  margin-left:50%;
+  width:31.176470588235293%;
+  height:92.3076923076923%;
+  margin-top:0%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:30px;
+  line-height:34.4444465637207px;
+}
+.q95---outer{
+  
+  z-index:72;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.shopping-basket-5{
+  position:relative;
+  z-index:71;
+  
+  margin-left:12.352941176470589%;
+  width:20.58823529411765%;
+  height:67.3076923076923%;
+  margin-top:4.705882352941177%;
+  content:url(assets/images/shopping_basket_5.png);
+}
+.shopping-basket-5-outer{
+  
+  z-index:71;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-26{
+  position:relative;
+  z-index:70;
+  
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(255, 89, 89, 1);
+  border-radius:20px;
+}
+.Rectangle-26-outer{
+  
+  z-index:70;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Component-51-1{
+  position:relative;
+  z-index:65;
+  
+  margin-left:487px;
+  width:170px;
+  min-width:170px;
+  height:52px;
+  margin-top:-1004px;
+  margin-bottom:952px;
+  min-height:52px;
+}
+.Component-51-1-outer{
+  
+  z-index:65;
+  position:relative;
+  display:flex;
+}
+.q95---1{
+  position:relative;
+  z-index:68;
+  
+  margin-left:50%;
+  width:31.176470588235293%;
+  height:92.3076923076923%;
+  margin-top:0%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:30px;
+  line-height:34.4444465637207px;
+}
+.q95---1-outer{
+  
+  z-index:68;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.shopping-basket-5-1{
+  position:relative;
+  z-index:67;
+  
+  margin-left:12.352941176470589%;
+  width:20.58823529411765%;
+  height:67.3076923076923%;
+  margin-top:4.705882352941177%;
+  content:url(assets/images/shopping_basket_5_1.png);
+}
+.shopping-basket-5-1-outer{
+  
+  z-index:67;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-26-1{
+  position:relative;
+  z-index:66;
+  
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(255, 89, 89, 1);
+  border-radius:20px;
+}
+.Rectangle-26-1-outer{
+  
+  z-index:66;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.q--------{
+  position:relative;
+  z-index:7;
+  
+  margin-left:251px;
+  width:72px;
+  min-width:72px;
+  margin-top:-990px;
+  margin-bottom:952px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:24px;
+  line-height:27.77777862548828px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q---------outer{
+  
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.q------------2{
+  position:relative;
+  z-index:8;
+  
+  margin-left:905px;
+  width:108px;
+  min-width:105px;
+  margin-top:-989px;
+  margin-bottom:951px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:24px;
+  line-height:27.77777862548828px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q------------2-outer{
+  
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.q419x260------------{
+  position:relative;
+  z-index:18;
+  
+  margin-left:876px;
+  width:419px;
+  min-width:419px;
+  height:260.14px;
+  margin-top:-808px;
+  margin-bottom:547.8600000000001px;
+  min-height:260.14px;
+  content:url(assets/images/_419x260_____________________01_1.png);
+}
+.q419x260-------------outer{
+  
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.q419x260-------1{
+  position:relative;
+  z-index:17;
+  
+  margin-left:238px;
+  width:419px;
+  min-width:419px;
+  height:260px;
+  margin-top:-808px;
+  margin-bottom:548px;
+  min-height:260px;
+  content:url(assets/images/_419x260_______1.png);
+}
+.q419x260-------1-outer{
+  
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Component-54{
+  position:relative;
+  z-index:73;
+  
+  margin-left:487px;
+  width:170px;
+  min-width:170px;
+  height:52px;
+  margin-top:-527px;
+  margin-bottom:475px;
+  min-height:52px;
+}
+.Component-54-outer{
+  
+  z-index:73;
+  position:relative;
+  display:flex;
+}
+.q39--{
+  position:relative;
+  z-index:76;
+  
+  margin-left:50%;
+  width:31.176470588235293%;
+  height:92.3076923076923%;
+  margin-top:0%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:30px;
+  line-height:34.4444465637207px;
+}
+.q39---outer{
+  
+  z-index:76;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.shopping-basket-9{
+  position:relative;
+  z-index:75;
+  
+  margin-left:12.352941176470589%;
+  width:20.58823529411765%;
+  height:67.3076923076923%;
+  margin-top:4.705882352941177%;
+  content:url(assets/images/shopping_basket_9.png);
+}
+.shopping-basket-9-outer{
+  
+  z-index:75;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-30{
+  position:relative;
+  z-index:74;
+  
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(255, 89, 89, 1);
+  border-radius:20px;
+}
+.Rectangle-30-outer{
+  
+  z-index:74;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.q-----------1{
+  position:relative;
+  z-index:11;
+  
+  margin-left:249px;
+  width:109px;
+  min-width:109px;
+  margin-top:-522px;
+  margin-bottom:484px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:24px;
+  line-height:27.77777862548828px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q-----------1-outer{
+  
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.Component-57{
+  position:relative;
+  z-index:77;
+  
+  margin-left:1136px;
+  width:170px;
+  min-width:170px;
+  height:52px;
+  margin-top:-513px;
+  margin-bottom:461px;
+  min-height:52px;
+}
+.Component-57-outer{
+  
+  z-index:77;
+  position:relative;
+  display:flex;
+}
+.q79--{
+  position:relative;
+  z-index:80;
+  
+  margin-left:50%;
+  width:31.176470588235293%;
+  height:92.3076923076923%;
+  margin-top:0%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:30px;
+  line-height:34.4444465637207px;
+}
+.q79---outer{
+  
+  z-index:80;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.shopping-basket-10{
+  position:relative;
+  z-index:79;
+  
+  margin-left:12.352941176470589%;
+  width:20.58823529411765%;
+  height:67.3076923076923%;
+  margin-top:4.705882352941177%;
+  content:url(assets/images/shopping_basket_10.png);
+}
+.shopping-basket-10-outer{
+  
+  z-index:79;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-31{
+  position:relative;
+  z-index:78;
+  
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(255, 89, 89, 1);
+  border-radius:20px;
+}
+.Rectangle-31-outer{
+  
+  z-index:78;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.q--------------{
+  position:relative;
+  z-index:19;
+  
+  margin-left:887px;
+  width:134px;
+  min-width:134px;
+  margin-top:-513px;
+  margin-bottom:475px;
+  min-height:38px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:24px;
+  line-height:27.77777862548828px;
+  -webkit-text-stroke:1px rgba(0, 0, 0, 1);
+}
+.q---------------outer{
+  
+  z-index:19;
+  position:relative;
+  display:flex;
+}
+.Rectangle-20{
+  position:relative;
+  z-index:9;
+  
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:210px;
+  margin-top:-210px;
+  margin-bottom:0px;
+  min-height:210px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-20-outer{
+  
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.q-FOOTER{
+  position:relative;
+  z-index:10;
+  
+  margin-left:512px;
+  width:462px;
+  min-width:450px;
+  margin-top:-182px;
+  margin-bottom:28px;
+  min-height:154px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:96px;
+  line-height:111.11111450195312px;
+}
+.q-FOOTER-outer{
+  
+  z-index:10;
+  position:relative;
+  display:flex;
+}

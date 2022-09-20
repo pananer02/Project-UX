@@ -1,0 +1,541 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  
+  width:100%;
+  margin-left:0;
+  height:2143px;
+  min-width:200px;
+  max-width:1512px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  
+  z-index:2;
+}
+.Rectangle-1{
+  position:relative;
+  z-index:13;
+  
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:210px;
+  margin-top:0px;
+  margin-bottom:1933px;
+  min-height:210px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-1-outer{
+  
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2{
+  position:relative;
+  z-index:14;
+  
+  margin-left:56px;
+  width:151px;
+  min-width:151px;
+  height:145px;
+  margin-top:-2110px;
+  margin-bottom:1965px;
+  min-height:145px;
+  content:url(assets/images/Rectangle_2.png);
+}
+.Rectangle-2-outer{
+  
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.Group-9{
+  position:relative;
+  z-index:24;
+  
+  margin-left:1326px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:-1934px;
+  margin-bottom:1878px;
+  min-height:56px;
+}
+.Group-9-outer{
+  
+  z-index:24;
+  position:relative;
+  display:flex;
+}
+.Rectangle-9{
+  position:relative;
+  z-index:25;
+  
+  margin-left:0px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:56px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-9-outer{
+  
+  z-index:25;
+  position:relative;
+  display:flex;
+}
+.logout-1{
+  position:relative;
+  z-index:26;
+  
+  margin-left:76px;
+  width:40px;
+  min-width:40px;
+  height:40px;
+  margin-top:-51px;
+  margin-bottom:11px;
+  min-height:40px;
+  content:url(assets/images/logout_1.png);
+}
+.logout-1-outer{
+  
+  z-index:26;
+  position:relative;
+  display:flex;
+}
+.Group-8{
+  position:relative;
+  z-index:21;
+  
+  margin-left:1027px;
+  width:244px;
+  min-width:244px;
+  height:56px;
+  margin-top:-1934px;
+  margin-bottom:1878px;
+  min-height:56px;
+}
+.Group-8-outer{
+  
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.Rectangle-8{
+  position:relative;
+  z-index:22;
+  
+  margin-left:0px;
+  width:244px;
+  min-width:244px;
+  height:56px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:56px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-8-outer{
+  
+  z-index:22;
+  position:relative;
+  display:flex;
+}
+.Loing---Register{
+  position:relative;
+  z-index:23;
+  
+  margin-left:23px;
+  width:197px;
+  min-width:197px;
+  margin-top:-51px;
+  margin-bottom:11px;
+  min-height:40px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:25px;
+  line-height:28.88888931274414px;
+}
+.Loing---Register-outer{
+  
+  z-index:23;
+  position:relative;
+  display:flex;
+}
+.Group-7{
+  position:relative;
+  z-index:18;
+  
+  margin-left:779px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:-1934px;
+  margin-bottom:1878px;
+  min-height:56px;
+}
+.Group-7-outer{
+  
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.Rectangle-7{
+  position:relative;
+  z-index:19;
+  
+  margin-left:0px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:56px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-7-outer{
+  
+  z-index:19;
+  position:relative;
+  display:flex;
+}
+.ABOUT-ME{
+  position:relative;
+  z-index:20;
+  
+  margin-left:28px;
+  width:160px;
+  min-width:160px;
+  margin-top:-51px;
+  margin-bottom:3px;
+  min-height:48px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:25px;
+  line-height:28.88888931274414px;
+}
+.ABOUT-ME-outer{
+  
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.Group-6{
+  position:relative;
+  z-index:15;
+  
+  margin-left:531px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:-1934px;
+  margin-bottom:1878px;
+  min-height:56px;
+}
+.Group-6-outer{
+  
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Rectangle-6{
+  position:relative;
+  z-index:16;
+  
+  margin-left:0px;
+  width:193px;
+  min-width:193px;
+  height:56px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:56px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-6-outer{
+  
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Home{
+  position:relative;
+  z-index:17;
+  
+  margin-left:60px;
+  width:72px;
+  min-width:72px;
+  margin-top:-47px;
+  margin-bottom:7px;
+  min-height:40px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:25px;
+  line-height:28.88888931274414px;
+}
+.Home-outer{
+  
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Rectangle-34{
+  position:relative;
+  z-index:9;
+  
+  margin-left:159px;
+  width:353px;
+  min-width:353px;
+  height:106px;
+  margin-top:-1730px;
+  margin-bottom:1624px;
+  min-height:106px;
+  background-color:rgba(106, 112, 164, 1);
+  border-radius:20px 20px 0px 0px;
+}
+.Rectangle-34-outer{
+  
+  z-index:9;
+  position:relative;
+  display:flex;
+}
+.ABOUT-ME-1{
+  position:relative;
+  z-index:10;
+  
+  margin-left:207px;
+  width:256px;
+  min-width:256px;
+  margin-top:-1704px;
+  margin-bottom:1627px;
+  min-height:77px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:48px;
+  line-height:54.4444465637207px;
+}
+.ABOUT-ME-1-outer{
+  
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Rectangle-32{
+  position:relative;
+  z-index:5;
+  
+  margin-left:0px;
+  width:1403px;
+  min-width:1403px;
+  height:1185px;
+  margin-top:-1627px;
+  margin-bottom:442px;
+  min-height:1185px;
+  background-color:rgba(106, 112, 164, 1);
+}
+.Rectangle-32-outer{
+  
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Rectangle-33{
+  position:relative;
+  z-index:6;
+  
+  margin-left:83px;
+  width:1508px;
+  min-width:1508px;
+  height:573px;
+  margin-top:-1488px;
+  margin-bottom:915px;
+  min-height:573px;
+  background-color:rgba(238, 241, 255, 1);
+  border-radius:20px;
+}
+.Rectangle-33-outer{
+  
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.Ellipse-1{
+  position:relative;
+  z-index:8;
+  
+  margin-left:1051px;
+  width:294px;
+  min-width:294px;
+  height:273px;
+  margin-top:-1439px;
+  margin-bottom:1166px;
+  min-height:273px;
+  content:url(assets/images/Ellipse_1.png);
+}
+.Ellipse-1-outer{
+  
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.q269804356-188871167{
+  position:relative;
+  z-index:7;
+  
+  margin-left:143px;
+  width:712px;
+  min-width:712px;
+  height:475px;
+  margin-top:-1439px;
+  margin-bottom:964px;
+  min-height:475px;
+  content:url(assets/images/_269804356_1888711671335703_2871227322193039076_n_1.png);
+}
+.q269804356-188871167-outer{
+  
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.PK-SHABU{
+  position:relative;
+  z-index:12;
+  
+  margin-left:1043px;
+  width:323px;
+  min-width:323px;
+  margin-top:-1123px;
+  margin-bottom:1021px;
+  min-height:102px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:64px;
+  line-height:72.22222900390625px;
+}
+.PK-SHABU-outer{
+  
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.PK-Shabu------------{
+  position:relative;
+  z-index:11;
+  
+  margin-left:207px;
+  width:1015px;
+  min-width:1015px;
+  margin-top:-802px;
+  margin-bottom:574px;
+  min-height:228px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:24px;
+  line-height:27.77777862548828px;
+  -webkit-text-stroke:1px rgba(255, 255, 255, 1);
+}
+.PK-Shabu-------------outer{
+  
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.Rectangle-20{
+  position:relative;
+  z-index:3;
+  
+  margin-left:0px;
+  width:1512px;
+  min-width:1512px;
+  height:210px;
+  margin-top:-210px;
+  margin-bottom:0px;
+  min-height:210px;
+  background-color:rgba(255, 89, 89, 1);
+}
+.Rectangle-20-outer{
+  
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.q-FOOTER{
+  position:relative;
+  z-index:4;
+  
+  margin-left:512px;
+  width:462px;
+  min-width:450px;
+  margin-top:-182px;
+  margin-bottom:28px;
+  min-height:154px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Prachason Neue Mon Demo;
+  font-weight:100;
+  font-size:96px;
+  line-height:111.11111450195312px;
+}
+.q-FOOTER-outer{
+  
+  z-index:4;
+  position:relative;
+  display:flex;
+}
